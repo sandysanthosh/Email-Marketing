@@ -42,7 +42,7 @@
           Moonmail – best for developers Mailjet.
 
 
-[http://starwalt.in/Blogs/index.html](Blog)
+<a href="http://starwalt.in/Blogs/index.html">vFollow us on Blog</a>
 
 
 
